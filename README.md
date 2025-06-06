@@ -14,7 +14,11 @@ This simple calculator app is built using Java's Swing and AWT libraries to perf
 
  📷 Preview
 
-> *(Add a screenshot here if available — like a `.png` of the UI)*
+https://www.linkedin.com/posts/manasa-kyatham_javadevelopment-codingprojects-softwareengineering-activity-7220404464451510272-stq8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEENWswBhJGBUB6LGSqzFUa85OiXXTBmtow
+
+![image](https://github.com/user-attachments/assets/08fbdd06-818d-42d6-953c-f1765a386d97)
+
+
 
  🛠️ Tech Stack
 
